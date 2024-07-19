@@ -38,7 +38,7 @@ export const experiencesData = [
         title: 'System Developer',
         location: 'Sta Mesa Manila',
         description:
-            'I worked as a System Developer for 1 years. I also upskilled to the full stack.',
+            'I worked as a System Developer for 1 year. I also upskilled to the full stack.',
         icon: React.createElement(CgWorkAlt),
         date: '2023 - 2024',
     },
